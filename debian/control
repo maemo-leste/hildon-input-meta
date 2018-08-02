@@ -16,4 +16,7 @@ Depends: ${shlibs:Depends},
  hildon-im-keyboard-assistant,
  libhildon-im-vkbrenderer3,
  osso-applet-textinput,
+ osso-applet-textinput-l10n-mr0,
+ hildon-im-common-virtual-settings,
+ libimengines-plugins-western,
 Description: Metapackage for installing hildon input method and its dependencies.
