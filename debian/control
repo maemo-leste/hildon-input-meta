@@ -1,0 +1,19 @@
+Source: hildon-connectivity-meta
+Section: misc
+Priority: optional
+Maintainer: Merlijn Wajer <merlijn@wizzup.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: hildon-connectivity-meta
+Architecture: all
+Depends: ${shlibs:Depends},
+ libimengines4,
+ hildon-im-fkb,
+ hildon-im-plugin-base-settings,
+ hildon-input-method-configurator,
+ hildon-input-method,
+ hildon-im-keyboard-assistant,
+ libhildon-im-vkbrenderer3,
+ osso-applet-textinput,
+Description: Metapackage for installing hildon connui and its dependencies.
