@@ -19,5 +19,5 @@ Depends: ${shlibs:Depends},
  osso-applet-textinput,
  osso-applet-textinput-l10n-mr0,
  hildon-im-common-virtual-settings,
- libimengines-plugins-western,
+ libhildon-im-western-plugin-common3
 Description: Metapackage for installing hildon input method and its dependencies.
