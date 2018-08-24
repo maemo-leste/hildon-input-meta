@@ -14,6 +14,7 @@ Depends: ${shlibs:Depends},
  hildon-input-method-configurator,
  hildon-input-method,
  hildon-im-keyboard-assistant,
+ hildon-im-keyboard-assistant-scv
  libhildon-im-vkbrenderer3,
  osso-applet-textinput,
  osso-applet-textinput-l10n-mr0,
