@@ -1,3 +1,9 @@
+hildon-input-meta (1.2) unstable; urgency=medium
+
+  * Add qt-input-maemo
+
+ -- Merlijn Wajer <merlijn@wizzup.org>  Wed, 22 Jan 2025 14:15:00 +0100
+
 hildon-input-meta (1.1) unstable; urgency=medium
 
   * Add hildon-im-keyboard-assistant-scv
